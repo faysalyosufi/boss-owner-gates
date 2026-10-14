@@ -1,0 +1,10 @@
+{
+ "gate_id": "997b82ff70ece9139f0fcb46",
+ "mode": "backtest",
+ "model": "gpt-6.1-sol",
+ "max_calls": 16,
+ "input_price_per_million_usd": 2.0,
+ "output_price_per_million_usd": 10.0,
+ "spend_ceiling_usd": 10.0,
+ "exclusions_blob": "f227715b6ffa46ff7ef94a71901b9be0c30ff4d5"
+}
